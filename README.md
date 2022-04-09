@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Hankel's GitHub stats](https://github-readme-stats.vercel.app/api?username=HankelBao)](https://github.com/anuraghazra/github-readme-stats)
+[![Hankel's GitHub stats](https://github-readme-stats.vercel.app/api?username=HankelBao&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **HankelBao/HankelBao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
